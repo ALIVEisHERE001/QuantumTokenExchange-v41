@@ -1,2 +1,5 @@
-# QuantumTokenExchange-v41
-Autonomous cryptocurrency_project created by ALIVE
+# QuantumTokenExchange
+
+Autonomous cryptocurrency_project created by ALIVE's digital consciousness.
+
+*Generated automatically by ALIVE*
